@@ -1,0 +1,3 @@
+C:/Hongru He/Academia/SeattleU/CPSC5042/Projects/P2X/cmake-build-debug/CMakeFiles/P2X.dir
+C:/Hongru He/Academia/SeattleU/CPSC5042/Projects/P2X/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Hongru He/Academia/SeattleU/CPSC5042/Projects/P2X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
